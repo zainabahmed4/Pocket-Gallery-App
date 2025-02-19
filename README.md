@@ -10,3 +10,7 @@ Features:
 
 Design Approach:
 This app prioritizes a seamless and engaging user experience by incorporating intuitive navigation, visually appealing layouts, and accessibility-focused UI elements.
+
+The Figma design file is available here: https://www.figma.com/design/5Wy3lN2opeXjIjN4zIpC6H/Pocket-Gallery-App-(GitHub)?node-id=0-1&t=kOO8abe94G4ync85-1
+
+
